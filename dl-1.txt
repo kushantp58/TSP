@@ -1,0 +1,17 @@
+word2vec
+-fully connected feedfwd n/w
+cnn- with some convolutional layers , has a number of filters
+with convolutional operations
+-enocder decoder machine translation
+lstm encoder and decoder
+attention - image caption generation
+ULM-fit in transfer learning on NLp
+recurrent models require linear sequential computation , hard to 
+ parallelize  ELMo bidirectional LSTM
+ transformer -
+ stack of encoder and decoder blocks with i/ps and o/ps
+ self attention -
+ key - value pair
+representing the i/p order or positional encoding 
+adding and normalizing for regulating the computation
+layer normalization which normalizes the inputs across the features
